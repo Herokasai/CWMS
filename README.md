@@ -37,4 +37,4 @@ To run CWMS locally, you need:
 2. Copy the `cwms` folder into:
 
 ```text
-C:\xampp\htdocs\
+C:\xampp1\htdocs\cwms
