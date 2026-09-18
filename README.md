@@ -33,8 +33,14 @@ To run CWMS locally, you need:
 
 ## ⚙️ Installation
 
-1. Download or clone this repository.
-2. Copy the `cwms` folder into:
+1. Download the repository.
+2. Extract the ZIP file.
+3. Copy the `cwms` folder into your XAMPP `htdocs` folder.
+4. Start Apache and MySQL in XAMPP.
+5. Open phpMyAdmin.
+6. Create a database named `cwmsdb`.
+7. Import `cwmsdb.sql`.
+8. Open your browser and go to:
 
 ```text
 http://localhost/cwms/
